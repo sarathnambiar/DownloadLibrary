@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownloaderLibrary</string>
+
+
+    <string name="notification_no_memory">No Memmory to continue</string>
+    <string name="notification_error">Error occured please try again later</string>
+    <string name="notification_catalog_downloaded">Downloading catalog</string>
+
+</resources>
